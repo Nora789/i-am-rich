@@ -1,3 +1,3 @@
 # i-am-rich
 
-This is a simple iOS app writtrn by Swift.
+This is a simple iOS app written by Swift.
